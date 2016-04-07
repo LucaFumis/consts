@@ -1,0 +1,16 @@
+{
+  "name": "cttv.consts",
+  "version": "0.0.0",
+  "description": "Constants for CTTV",
+  "main": "index.js",
+  "keywords": [
+    "cttv",
+    "configuration"
+  ],
+  "author": "Miguel Pignatelli",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CTTV/cttv.consts"
+  }
+}
